@@ -1,0 +1,25 @@
+input{
+   display: flex;
+   justify-items: center;
+   font-size: larger;
+   font-weight: bolder;
+   height: 30px;
+   width: 50%;
+   margin-left: 300px;
+   justify-content: center;
+}
+
+
+p{
+    text-align: center;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+body{
+    background-color: lightblue;
+}
+#container{
+    cursor: pointer;
+}
+
